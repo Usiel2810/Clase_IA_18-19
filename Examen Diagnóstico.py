@@ -55,4 +55,4 @@ if nodo:
 else:
     print("Nodo No Encontrado")
 
-print(f"¿El Árbol Está Vacío? {arbol.vacio()}")
+print(f"¿El Árbol No Tiene Nodos? {arbol.vacio()}")
